@@ -1,6 +1,6 @@
 # 🧠 Kaggle ML Competitions – Portfolio Repository
 
-![Python](https://img.shields.io/badge/Python-3.8-blue?logo=python)![Machine Learning](https://img.shields.io/badge/ML-End_to_End_Pipelines-success?logo=scikit-learn)![Competitions](https://img.shields.io/badge/Kaggle-3_Projects-orange?logo=kaggle)![Status](https://img.shields.io/badge/Repository-Active-brightgreen)
+![Python](https://img.shields.io/badge/Python-3.8-blue?logo=python) ![Machine Learning](https://img.shields.io/badge/ML-End_to_End_Pipelines-success?logo=scikit-learn) ![Competitions](https://img.shields.io/badge/Kaggle-3_Projects-orange?logo=kaggle) ![Status](https://img.shields.io/badge/Repository-Active-brightgreen)
 
 This repository contains three end-to-end machine learning projects completed as part of Kaggle competitions. Each folder showcases a complete pipeline—from data cleaning and feature engineering to model tuning and final submission. These projects reflect my evolving intuition in handling real-world datasets, building reproducible workflows, and experimenting with ensemble techniques.
 
