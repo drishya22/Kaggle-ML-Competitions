@@ -10,7 +10,7 @@ This repository contains three end-to-end machine learning projects completed as
 
 ### ✈️ [Flight Price Prediction](flight-price-prediction)
 
-![ML Type](https://img.shields.io/badge/Task-Regression-blue)![Model Performance](https://img.shields.io/badge/R²_Score-0.973-purple)![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![ML Type](https://img.shields.io/badge/Task-Regression-blue) ![Model Performance](https://img.shields.io/badge/R²_Score-0.973-purple) ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 Predict flight ticket prices using structured data.  
 Final model: Ensemble of Random Forest and XGBoost  
@@ -22,7 +22,7 @@ Final model: Ensemble of Random Forest and XGBoost
 
 ### 📉 [Customer Churn Prediction](customer-churn-prediction)
 
-![ML Type](https://img.shields.io/badge/Task-Classification-red)![Model Performance](https://img.shields.io/badge/F1_Score-0.6258-purple)![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![ML Type](https://img.shields.io/badge/Task-Classification-red) ![Model Performance](https://img.shields.io/badge/F1_Score-0.6258-purple) ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 Predict whether a customer will exit a financial institution.  
 Final model: Blended ensemble of boosting classifiers  
@@ -35,9 +35,7 @@ Final model: Blended ensemble of boosting classifiers
 
 ### 🍽️ [Eatery Review Rating Prediction](eatery-review-rating)
 
-![ML Type](https://img.shields.io/badge/Task-NLP_Classification-yellow)
-![Model Performance](https://img.shields.io/badge/Accuracy-0.6952-purple)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![ML Type](https://img.shields.io/badge/Task-NLP_Classification-yellow) ![Model Performance](https://img.shields.io/badge/Accuracy-0.6952-purple) ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 Predict customer ratings based on textual reviews.  
 Final model: Weighted ensemble of XGBoost (60%), HistGradientBoosting (30%), Random Forest (10%)  
