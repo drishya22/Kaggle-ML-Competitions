@@ -1,11 +1,7 @@
 # 📉 Customer Churn Prediction – Machine Learning Competition Project
 
 
-![Python](https://img.shields.io/badge/Python-3.8-blue?logo=python)  
-![Machine Learning](https://img.shields.io/badge/ML-Classification-success?logo=scikit-learn)  
-![Competition](https://img.shields.io/badge/Kaggle-Churn_Prediction-orange?logo=kaggle)  
-![Model Performance](https://img.shields.io/badge/F1_Score-0.6258-purple?logo=data)  
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![Python](https://img.shields.io/badge/Python-3.8-blue?logo=python)  ![Machine Learning](https://img.shields.io/badge/ML-Classification-success?logo=scikit-learn)  ![Competition](https://img.shields.io/badge/Kaggle-Churn_Prediction-orange?logo=kaggle)  ![Model Performance](https://img.shields.io/badge/F1_Score-0.6258-purple?logo=data)  ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 
 This repository presents an end-to-end machine learning pipeline developed for predicting **customer churn** in a financial institution. The task was to identify whether a customer would exit (close their account) or stay, based on demographic, geographic, and account-related attributes.  
